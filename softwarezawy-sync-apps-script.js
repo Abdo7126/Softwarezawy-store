@@ -1,4 +1,4 @@
-const SZ_SYNC_TOKEN = "CHANGE_THIS_TOKEN";
+const SZ_SYNC_TOKEN = "Aa01000706717@";
 const SZ_STORE_KEY = "softwarezawy_store_v1";
 const SZ_PUBLIC_KEYS = ["settings", "sections", "products", "coupons"];
 const SZ_ADMIN_KEYS = ["settings", "sections", "products", "coupons", "orders", "invoice"];
